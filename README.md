@@ -1,2 +1,4 @@
 # Challenge-1
-![Alt text](assets/images/brand-awareness.png)
+## Changes I made in HTML
+- 
+![Alt text](link)
