@@ -26,6 +26,8 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Nav bar */
+
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -48,6 +50,8 @@ a {
     text-decoration: none;
 }
 
+/* Main image */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -56,9 +60,9 @@ a {
     background-position: center;
 }
 
-/* Article */
+/* Articles Section */
 
-article {
+.content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -78,7 +82,7 @@ p {
     margin-left: 25px;
 }
 
-.article-section {
+.content-article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -87,11 +91,11 @@ p {
     color: #ffffff;
 }
 
-.article-section img {
+.content-article img {
     max-height: 200px;
 }
 
-.article-section h2 {
+.content-article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
